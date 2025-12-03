@@ -1,4 +1,4 @@
-import { Model, Schema } from 'mongoose'
+import mongoose from 'mongoose'
 
 const ipLogSchema = new mongoose.Schema(
     {
